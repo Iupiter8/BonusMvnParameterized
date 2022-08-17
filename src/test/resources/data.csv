@@ -1,0 +1,26 @@
+# RegisteredAndUnderLimit
+1000,true,30
+
+# RegisteredAndOverLimit
+1000000,true,500
+
+# NoRegisteredAndUnderLimit
+100,false,1
+
+# RegisteredAndUnderLimit
+16633,true,498
+
+# RegisteredAndUnderLimit
+16666,true,499
+
+# RegisteredAndOverLimit
+16700,true,500
+
+# NoRegisteredAndOverLimit
+50100,false,500
+
+# NoRegisteredAndZero
+99,false,0
+
+# RegisteredAndZero
+33,true,0
